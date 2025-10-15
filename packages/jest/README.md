@@ -41,3 +41,5 @@ module.exports = {
 ```
 
 [List of all of the available configuration options](https://github.com/swc-project/swc-node/blob/master/packages/core/index.ts#L6).
+
+<!-- Auto-update: 2025-10-15T13:43:42.804436 -->
