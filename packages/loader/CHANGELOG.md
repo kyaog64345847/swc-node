@@ -214,3 +214,5 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 - **loader:** implement tsconfig compatible loader ([8c1cd85](https://github.com/swc-project/swc-node/commit/8c1cd858a64a6b6ec6ff23811bafab7dfe30554d))
+
+<!-- Auto-update: 2025-10-17T14:03:44.659501 -->
